@@ -421,6 +421,7 @@ git diff                 # Working tree ile staging area
  git diff --staged       # Staging area ile son commit
  git diff HEAD            # Working tree + index ile HEAD
  git diff main..feature   # İki commit/branch ucu arasındaki fark
+git diff <commit_id>     # commit id ile mevcut arasındaki fark
 ```
 
 | Seçenek | Açıklama |
